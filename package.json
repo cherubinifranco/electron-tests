@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "author": "Franco Cherubini",
+  "description": "App to test auto-updates",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
     "path": "^0.12.7",
