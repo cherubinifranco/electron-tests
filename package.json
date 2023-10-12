@@ -12,9 +12,10 @@
     "update-electron-app": "^2.0.1"
   },
   "main": "public/main.js",
+  "homepage":".",
   "scripts": {
     "dev": "react-scripts start",
-    "start": "electron-forge start",
+    "start": "electron .",
     "build": "react-scripts build",
     "make": "electron-forge make",
     "package": "electron-forge package"

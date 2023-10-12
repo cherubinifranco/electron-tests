@@ -1,10 +1,12 @@
 const { app, BrowserWindow } = require("electron");
 const path = require('path');
 
-// require("update-electron-app")({
-//   repo: "cherubinifranco/electron-tests",
-//   updateInterval: "1 hour",
-// });
+
+
+require("update-electron-app")({
+  repo: "cherubinifranco/electron-tests",
+  updateInterval: "1 hour",
+});
 
 function createWindow() {
   const win = new BrowserWindow({

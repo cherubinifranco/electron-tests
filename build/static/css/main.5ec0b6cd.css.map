@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5ec0b6cd.css","mappings":"AAAA,mBAGE,oBAAqB,CAFrB,YAAa,CACb,WAEF","sources":["app.module.css"],"sourcesContent":[".block{\n  height: 100px;\n  width: 100px;\n  background-color: red;\n}"],"names":[],"sourceRoot":""}

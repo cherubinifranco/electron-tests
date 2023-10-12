@@ -1,9 +1,11 @@
-import './App.css';
-
+import styles from "./app.module.css"
 function App() {
   return (
     <div className="App">
-      <h1>AHORA ANDA</h1>
+      <div className={styles.block}>
+
+      </div>
+      <h1>AHORA ANDA V1.0.0</h1>
     </div>
   );
 }
