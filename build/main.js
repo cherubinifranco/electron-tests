@@ -1,6 +1,5 @@
-const { app, BrowserWindow } = require("electron");
+const { app, BrowserWindow, autoUpdater } = require("electron");
 const path = require('path');
-
 // require("update-electron-app")({
 //   repo: "cherubinifranco/electron-tests",
 //   updateInterval: "1 hour",
