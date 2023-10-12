@@ -5,7 +5,7 @@ function App() {
       <div className={styles.block}>
 
       </div>
-      <h1>AHORA ANDA V1.0.0</h1>
+      <h1>AHORA ANDA V1.1.0</h1>
     </div>
   );
 }
